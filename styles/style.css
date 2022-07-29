@@ -1,6 +1,14 @@
+.carousel-img {
+    filter: brightness(80%);
+}
+
 .register-cart {
 
     background-color: #289BDE;
+}
+
+.price-color {
+    color: #289BDE;
 }
 
 .register-cart-text {
